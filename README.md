@@ -1,15 +1,15 @@
-<h1 align="center">Hi 👋, I'm Momin Sarder</h1>
-<h3 align="center">A passionate frontend & wordpress developer</h3>
+<h1 align="left">Hi 👋, I'm Momin Sarder</h1>
+<h3 align="left">A passionate frontend & wordpress developer</h3>
 
-- 🔭 I’m currently working on [scroll top top plugin](#)
+ 🔭 I’m currently working on [scroll top top plugin](#)
 
-- 🌱 I’m currently learning **wordpress Plugin Development.**
+🌱 I’m currently learning **wordpress Plugin Development.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/](https://github.com/)
+ 👨‍💻 All of my projects are available at [https://github.com/](https://github.com/)
 
-- 💬 Ask me about **anything about wordpress.**
+ 💬 Ask me about **anything about wordpress.**
 
-- 📫 How to reach me **momin.sarder1212@gmail.com**
+ 📫 How to reach me **momin.sarder1212@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
