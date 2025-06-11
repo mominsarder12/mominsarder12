@@ -2,7 +2,7 @@
 <h3 align="left">A Web Developer, Wordpress Developer, Frontend Expert And Also A Programmer  </h3>
 🧠I'm not just a WordPress developer — I'm a problem solver who codes.
 
-🚀 I help businesses, startups, and entrepreneurs build fast, secure, and fully customized WordPress solutions — from plugin development to pixel-perfect frontend design.
+ 🚀 I help businesses, startups, and entrepreneurs build fast, secure, and fully customized WordPress solutions — from plugin development to pixel-perfect frontend design.
 
  🔧 Currently working on a custom <strong>“Scroll to Top” WordPress plugin</strong> to enhance user experience.
  
