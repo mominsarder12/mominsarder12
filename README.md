@@ -1,6 +1,7 @@
 <h1 align="left">Hi 👋, I'm Momin Sarder</h1>
 <h3 align="left">A Web Developer, Wordpress Developer, Frontend Expert And Also A Programmer  </h3>
-🧠I'm not just a WordPress developer — I'm a problem solver who codes.
+
+ 🧠I'm not just a WordPress developer — I'm a problem solver who codes.
 
  🚀 I help businesses, startups, and entrepreneurs build fast, secure, and fully customized WordPress solutions — from plugin development to pixel-perfect frontend design.
 
